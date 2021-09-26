@@ -1,2 +1,4 @@
-# data_structure_algorithm
-Data Structure and Algorithm Practises in python
+# Introduction
+
+As a part of Data Structure and Algorithm practises, this repository has been created
+store my practise code in python3.
